@@ -1,0 +1,1 @@
+spyglass -project $1.prj -goals $2 -goals lint/connect -batch 
